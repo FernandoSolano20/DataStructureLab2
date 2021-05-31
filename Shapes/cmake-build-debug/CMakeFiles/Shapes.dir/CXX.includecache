@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/Business.cpp
+Business.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/Business.h
+objects/Circle.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/objects/Circle.h
+objects/Rectangle.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/objects/Rectangle.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/Business.h
+objects/shape/Shape.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/objects/shape/Shape.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/objects/Circle.cpp
+Circle.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/objects/Circle.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/objects/Circle.h
+shape/Shape.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/objects/shape/Shape.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/objects/Rectangle.cpp
+Rectangle.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/objects/Rectangle.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/objects/Rectangle.h
+shape/Shape.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/objects/shape/Shape.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/objects/shape/Shape.cpp
+Shape.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/objects/shape/Shape.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/objects/shape/Shape.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/tl/Controller.cpp
+Controller.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/tl/Controller.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/tl/Controller.h
+../bl/Business.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/bl/Business.h
+
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/ui/main.cpp
+iostream
+-
+../tl/Controller.h
+C:/Users/fersolano/Documents/Universidad/Estructura de datos/Lab2/Shapes/src/com/shapes/tl/Controller.h
+
